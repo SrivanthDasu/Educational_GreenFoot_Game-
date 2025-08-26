@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Terrain
+comment1.params=
+comment1.target=Terrain()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ startNextWord()
+comment4.params=
+comment4.target=void\ spawnNextLetter()
+comment5.params=letter
+comment5.target=void\ letterHit(Letter)
+comment6.params=letter
+comment6.target=void\ letterMissed(Letter)
+comment7.params=
+comment7.target=void\ updateDisplays()
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Letter
+comment1.params=c\ isCorrect
+comment1.target=Letter(char,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isCorrect()
+comment4.params=
+comment4.target=char\ getLetter()
+numComments=5
